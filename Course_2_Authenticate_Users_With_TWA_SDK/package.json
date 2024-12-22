@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@twa-dev/sdk": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2"
+  }
+}
